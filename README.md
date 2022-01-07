@@ -1,3 +1,8 @@
+# Smart Filter
+
+This is a smart filter app that is used to generate a dynamic filter.
+The data is located at public/data.json, so feel free to play with it and make it suit to your app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
