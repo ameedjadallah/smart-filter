@@ -1,0 +1,1 @@
+export const getAppliedFilters = store => store.appliedFilters;
